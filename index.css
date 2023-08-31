@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+body {
+  margin: 0px;
+  font-family: "Inter", sans-serif;
+  color: black;
+  height: 100%;
+  user-select: none;
+}
+html {
+  height: 100%;
+  background-color: #e8e8e8;
+}
